@@ -1,6 +1,8 @@
 DevSecOps: Netflix Clone CI-CD with Monitoring | Email
 
 Project Steps :-
+![Screenshot (19)](https://github.com/user-attachments/assets/319cc609-b246-49a5-878a-b3d1aae9fea5)
+
 Step 1 — Launch an Ubuntu(22.04) T2 Large Instance
 Step 2 — Install Jenkins, Docker and Trivy. Create a Sonarqube Container using Docker.
 Step 3 — Create a TMDB API Key.
